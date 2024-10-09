@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/travel_project/static/css/main.0ba20dd5.css",
+    "main.js": "/travel_project/static/js/main.1d89cb8f.js",
+    "static/media/Home-video.mp4": "/travel_project/static/media/Home-video.58faa0f1af9f7cd5d853.mp4",
+    "static/media/login-background1-video.mp4": "/travel_project/static/media/login-background1-video.f999cdb797dc73fb732d.mp4",
+    "static/media/logo-video.mp4": "/travel_project/static/media/logo-video.ad8845d5db6252740bf9.mp4",
+    "static/media/homepage.png": "/travel_project/static/media/homepage.49a2529583f5977c947c.png",
+    "static/media/cultural.jpg": "/travel_project/static/media/cultural.e6570a2d175935f2d8c6.jpg",
+    "static/media/food.jpg": "/travel_project/static/media/food.66c761a31dec99eb4ded.jpg",
+    "static/media/top-exp.jpg": "/travel_project/static/media/top-exp.b6e7a519bbdcb05c0c76.jpg",
+    "static/media/top-attract.jpg": "/travel_project/static/media/top-attract.c6fc7f8fb3be173d7934.jpg",
+    "static/media/bucket-list.jpg": "/travel_project/static/media/bucket-list.db381be83e65f73d4b02.jpg",
+    "static/media/revicons.eot": "/travel_project/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/travel_project/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/travel_project/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/travel_project/index.html",
+    "main.0ba20dd5.css.map": "/travel_project/static/css/main.0ba20dd5.css.map",
+    "main.1d89cb8f.js.map": "/travel_project/static/js/main.1d89cb8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ba20dd5.css",
+    "static/js/main.1d89cb8f.js"
+  ]
+}
